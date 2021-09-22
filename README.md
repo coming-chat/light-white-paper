@@ -1,11 +1,22 @@
 # light-white-paper
-## background
+## Background
 - 1, Internet products have spread to all aspects of our lives. We have begun to pay attention to the quality of services. Privacy is a must for everyone, so we launched Coming Chat to allow everyone to enjoy the convenience of the Internet while taking into account personal privacy.
 - 2， Social products such as Facebook/Wechat require users to provide specific passports or national ID cards, which is not conducive to globalization. We launched Coming ID as a unified global digital identity. No matter which country you are from, we ourselves use our private key to issue an identity passport for ourselves. We all belong to the same earth, the same blue sky, Coming ID global digital identity, which aims to make the communication in the global village faster and more convenient.
 - 3，Encrypted wallets, the current encrypted wallets on the market, are relatively primitive wallets with various chains of BTC or ETH, which lack too much technology and provide users with greater security and convenience. The Schnorr signature algorithm is a major advancement of the elliptic curve, and the threshold signature can be derived from the aggregate signature. As long as it supports Schnorr's elliptic curve, we can customize Coming's dedicated threshold signature wallet (a special use case for distributed privacy computing). The use of threshold wallets can make user assets more secure, and the organization's multi-party collaborative privacy custody business is more secure and convenient.
 - 4，NFT: NFT on Ethereum is a separate creation and issuance of NFT by contract. The creation of our Coming Card NFT provides 10^12 digital identities, which is convenient for users to create and issue Card NFTs in a unified manner, and it is also convenient for NFTs to quickly circulate with the help of digital identities and provide good practical NFTs.
 - 5， The unified portal of Dapps, also known as the portal of Web3. Provide a unified entrance for Dapp development users to choose and develop various contract platforms. Provide a unified entrance for ordinary Dapp users, which is convenient for users to operate and use Dapp. Similar to Wechat's small program.
 
+## Technical details of each functional module
+### Private social
+TO DO.
+### Encrypted digital identity
+TO DO．
+### Crypto wallet and payment
+TO DO.
+### NFT creation and circulation platform
+TO DO.
+### Dapp portal platform
+TO DO.
 
 ## 背景
 - 1， 互联网产品已经普及到我们生活的方方面面，我们开始关注服务的质量，隐私是每个人的必须，所以我们推出Coming Chat，用来让大家在兼顾个人隐私的情况下，可以享受互联网的便捷。
