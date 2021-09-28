@@ -10,7 +10,8 @@
 ### Private social
 TO DO.
 ### Encrypted digital identity
-TO DO．
+数字身份：全球230多个国家和地区，各个地区都有各个国家的身份， 这个身份的认证和转换，需要太多的中间服务机构参与，既影响了效率，也在中间提供了太多的暗箱操作。
+基于加密学的数字身份， 可以给全球提供一个 自己认证自己，无须任何中间机构参与的全球身份。
 ### Crypto wallet and payment
 TO DO.
 ### NFT creation and circulation platform
