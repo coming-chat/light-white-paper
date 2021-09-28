@@ -15,7 +15,7 @@ Coming Chat： 采用类似Status相关的最严格隐私技术理论， 在保�
 数字身份：全球230多个国家和地区，各个地区都有各个国家的身份， 这个身份的认证和转换，需要太多的中间服务机构参与，既影响了效率，也在中间提供了太多的暗箱操作。
 基于加密学的数字身份， 可以给全球提供一个 自己认证自己，无须任何中间机构参与的全球身份。
 ### Crypto wallet and payment
-TO DO.
+加密钱包：传统钱包 和 门限钱包。  Coming会支持传统钱包 作为基点 接入Dapp服务， 借用门限钱包扩大丰富钱包的生态。
 ### NFT creation and circulation platform
 TO DO.
 ### Dapp portal platform
