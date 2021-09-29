@@ -17,7 +17,8 @@ Coming Chat： 采用类似Status相关的最严格隐私技术理论， 在保�
 ### Crypto wallet and payment
 加密钱包：传统钱包 和 门限钱包。  Coming会支持传统钱包 作为基点 接入Dapp服务， 借用门限钱包扩大丰富钱包的生态。
 ### NFT creation and circulation platform
-TO DO.
+NFT创作和交易平台： 以太坊上的NFT创作平台是单个合约一套NFT的模式， 是割裂的NFT， 除了头部的NFT以外， 排名靠后的NFT合约基本没法流通。
+C-Card结合 数字身份和卡片NFT的设计模式， 发行1~12位的数字，接近于1000亿张， 足以支撑市面上所有的NFT版本流通。 在同一个合约下， 使得我们的NFT方便流通和达成统一共识。
 ### Dapp portal platform
 TO DO.
 
