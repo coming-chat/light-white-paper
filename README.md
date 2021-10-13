@@ -6,6 +6,14 @@
 - 4，NFT: NFT on Ethereum is a separate creation and issuance of NFT by contract. The creation of our Coming Card NFT provides 10^12 digital identities, which is convenient for users to create and issue Card NFTs in a unified manner, and it is also convenient for NFTs to quickly circulate with the help of digital identities and provide good practical NFTs.
 - 5， The unified portal of Dapps, also known as the portal of Web3. Provide a unified entrance for Dapp development users to choose and develop various contract platforms. Provide a unified entrance for ordinary Dapp users, which is convenient for users to operate and use Dapp. Similar to Wechat's small program.
 
+## 旨在解决的问题
+### 中心化账户到去中心化账户体系的转移。
+传统的互联网，采用的是对称加密账户体系， 对称加密导致我们的密码在中心化服务器上都有存证，牵涉到金融相关的系统， 就更需要各种安全防火墙，金融风控技术和成本去为此类应用买单。我们现在用户所在用的产品，如银行系统，社交软件如（Facebook，微信，twitter等）都是此类产品。 只要黑客攻击了中心化数据库，或者企业内部人员内幕操作，所有的用户都会遭殃。
+BTC的出现， 用非对称的账户体系， 在全球数字金融圈中带来了革命性改变， 让每个用户拥有了自己账户的控制权， 没有任何中心化机构可以内幕操作以及任何黑客 通过黑掉中心化服务器黑掉整个账户体系。
+但应用非对称加密的账户体系技术 还只是在 数字金融中小试牛刀。 我们的Coming， 不仅在数字资产钱包中采用非对称加密密钥账户体系， 还整合了全球数字身份和NFT的接入。 让社交和社交的所有信息都是可以归还给用户，真正做到账户体系的去中心化，以及用户是自己的真正主人，没有任何第三方可以控制你的私密信息和资产。
+### 完全分布式的消息中转网络服务。
+  2021年10月份，有29亿月活的Facebook发生 服务器被绑架，导致超过15亿用户在近1天的时间内受到了无法通讯的影响，这对于个即时通讯社交APP来说，是不可容忍的。导致这个问题的根本原因是： 中心化数据库被绑架，如果我们的服务器是分布式的， 有数十个甚至更多， 就不会存在这种中心化的问题。这也是我们Coming 消息服务器一直在致力于解决的问题。
+  
 ## Technical details of each functional module
 ### Private social
 隐私社交： Facebook是全球社交软件的龙头， 但他在隐私方面一直被诟病。TG在隐私社交上因为万人群和流畅的体验获得了隐私社交软件的成功， 但他还是中心化的， 只是TG的数据存在TG公司服务器上，TG公司不像Facebook一样去使用用户的数据盈利。再者传统的社交软件，都需要手机号等现实身份信息，其次都是用对称加密服务， 会导致中心化服务被泄露，所有用户数据就会永久泄露。
